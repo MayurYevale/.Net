@@ -1,0 +1,8 @@
+C:\Users\mayur\OneDrive\Desktop\.Net\.Net\IntellipathTutorial\obj\Debug\IntellipathTutorial.csproj.AssemblyReference.cache
+C:\Users\mayur\OneDrive\Desktop\.Net\.Net\IntellipathTutorial\obj\Debug\IntellipathTutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\mayur\OneDrive\Desktop\.Net\.Net\IntellipathTutorial\obj\Debug\IntellipathTutorial.csproj.CoreCompileInputs.cache
+C:\Users\mayur\OneDrive\Desktop\.Net\.Net\IntellipathTutorial\bin\Debug\IntellipathTutorial.exe.config
+C:\Users\mayur\OneDrive\Desktop\.Net\.Net\IntellipathTutorial\bin\Debug\IntellipathTutorial.exe
+C:\Users\mayur\OneDrive\Desktop\.Net\.Net\IntellipathTutorial\bin\Debug\IntellipathTutorial.pdb
+C:\Users\mayur\OneDrive\Desktop\.Net\.Net\IntellipathTutorial\obj\Debug\IntellipathTutorial.exe
+C:\Users\mayur\OneDrive\Desktop\.Net\.Net\IntellipathTutorial\obj\Debug\IntellipathTutorial.pdb
