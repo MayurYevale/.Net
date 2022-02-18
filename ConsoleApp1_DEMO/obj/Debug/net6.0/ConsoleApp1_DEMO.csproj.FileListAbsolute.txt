@@ -1,0 +1,15 @@
+C:\Users\mayur\OneDrive\Desktop\.Net\ConsoleApp1_DEMO\obj\Debug\net6.0\ConsoleApp1_DEMO.csproj.AssemblyReference.cache
+C:\Users\mayur\OneDrive\Desktop\.Net\ConsoleApp1_DEMO\obj\Debug\net6.0\ConsoleApp1_DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayur\OneDrive\Desktop\.Net\ConsoleApp1_DEMO\obj\Debug\net6.0\ConsoleApp1_DEMO.AssemblyInfoInputs.cache
+C:\Users\mayur\OneDrive\Desktop\.Net\ConsoleApp1_DEMO\obj\Debug\net6.0\ConsoleApp1_DEMO.AssemblyInfo.cs
+C:\Users\mayur\OneDrive\Desktop\.Net\ConsoleApp1_DEMO\obj\Debug\net6.0\ConsoleApp1_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\mayur\OneDrive\Desktop\.Net\ConsoleApp1_DEMO\bin\Debug\net6.0\ConsoleApp1_DEMO.exe
+C:\Users\mayur\OneDrive\Desktop\.Net\ConsoleApp1_DEMO\bin\Debug\net6.0\ConsoleApp1_DEMO.deps.json
+C:\Users\mayur\OneDrive\Desktop\.Net\ConsoleApp1_DEMO\bin\Debug\net6.0\ConsoleApp1_DEMO.runtimeconfig.json
+C:\Users\mayur\OneDrive\Desktop\.Net\ConsoleApp1_DEMO\bin\Debug\net6.0\ConsoleApp1_DEMO.dll
+C:\Users\mayur\OneDrive\Desktop\.Net\ConsoleApp1_DEMO\bin\Debug\net6.0\ref\ConsoleApp1_DEMO.dll
+C:\Users\mayur\OneDrive\Desktop\.Net\ConsoleApp1_DEMO\bin\Debug\net6.0\ConsoleApp1_DEMO.pdb
+C:\Users\mayur\OneDrive\Desktop\.Net\ConsoleApp1_DEMO\obj\Debug\net6.0\ConsoleApp1_DEMO.dll
+C:\Users\mayur\OneDrive\Desktop\.Net\ConsoleApp1_DEMO\obj\Debug\net6.0\ref\ConsoleApp1_DEMO.dll
+C:\Users\mayur\OneDrive\Desktop\.Net\ConsoleApp1_DEMO\obj\Debug\net6.0\ConsoleApp1_DEMO.pdb
+C:\Users\mayur\OneDrive\Desktop\.Net\ConsoleApp1_DEMO\obj\Debug\net6.0\ConsoleApp1_DEMO.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\mayur\OneDrive\Desktop\.Net\demo_second\bin\Debug\demo_second.exe.config
+C:\Users\mayur\OneDrive\Desktop\.Net\demo_second\bin\Debug\demo_second.exe
+C:\Users\mayur\OneDrive\Desktop\.Net\demo_second\bin\Debug\demo_second.pdb
+C:\Users\mayur\OneDrive\Desktop\.Net\demo_second\obj\Debug\demo_second.csproj.SuggestedBindingRedirects.cache
+C:\Users\mayur\OneDrive\Desktop\.Net\demo_second\obj\Debug\demo_second.csproj.CoreCompileInputs.cache
+C:\Users\mayur\OneDrive\Desktop\.Net\demo_second\obj\Debug\demo_second.exe
+C:\Users\mayur\OneDrive\Desktop\.Net\demo_second\obj\Debug\demo_second.pdb
+C:\Users\mayur\OneDrive\Desktop\.Net\demo_second\obj\Debug\demo_second.csproj.AssemblyReference.cache
